@@ -1,7 +1,7 @@
-# GBU:  The Good, the Bad, and the Unhirable
+# The Good, the Bad, and the Unhirable: Recommending Job Applicants in Online Labor Markets
 
 
-> The code and dataset are posted for the review team of MS-INS-19-00471.  
+>  Relevant paper: http://kokkodis.com/files/gbu.pdf    
 
 ## Implementation of different models
 
