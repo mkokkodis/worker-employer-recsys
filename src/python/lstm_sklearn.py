@@ -1,6 +1,6 @@
 ############################################
-##### Author: Blinded for peer review    ###
-##### email: repudime@gmail.com          ###
+##### Author: Marios Kokkodis            ###
+##### email: marios.kokkodis@gmail.com   ###
 ############################################
 ##### >>  Python notes: tested on PY38   ###
 ############################################
